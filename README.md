@@ -23,3 +23,40 @@ Repository ini dibuat sebagai portofolio profesional dan bukti praktek teknis ny
 ---
 
 ## Struktur Repository
+it-support-lab/
+- progress/
+- logs/
+- scripts/
+- screenshots/
+- references/
+
+---
+
+## Aktivitas Lab
+- ✅ Instalasi Windows
+- ✅ Troubleshooting error unattended
+- [ ] Network configuration
+- [ ] User management
+- [ ] Backup & restore
+- [ ] Basic security hardening
+
+---
+
+## Skill yang Dikembangkan
+- OS Installation
+- Disk Partitioning
+- Troubleshooting
+- Windows Configuration
+- Documentation Skill
+- Basic IT Automation
+
+---
+
+## Tujuan Karier
+Junior IT Support → System Administrator → SOC Analyst
+
+---
+
+## Author
+Nama: Ainul Habibi
+Learning Path: IT Support & Cybersecurity
