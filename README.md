@@ -35,7 +35,7 @@ it-support-lab/
 ## Aktivitas Lab
 - ✅ Instalasi Windows
 - ✅ Troubleshooting error unattended
-- [ ] Network configuration
+- ✅ Network configuration
 - [ ] User management
 - [ ] Backup & restore
 - [ ] Basic security hardening
