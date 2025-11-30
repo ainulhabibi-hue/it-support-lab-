@@ -36,7 +36,7 @@ it-support-lab/
 - ✅ Instalasi Windows
 - ✅ Troubleshooting error unattended
 - ✅ Network configuration
-- [ ] User management
+- ✅ User management
 - [ ] Backup & restore
 - [ ] Basic security hardening
 
