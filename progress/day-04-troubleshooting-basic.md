@@ -5,54 +5,32 @@ Tanggal: 29 November 2025
 ---
 
 ## Tujuan
-Melatih kemampuan mendeteksi dan memperbaiki masalah sistem Windows menggunakan tools bawaan.
+Melatih kemampuan mendeteksi dan memperbaiki masalah sistem Windows menggunakan tools bawaan serta mendokumentasikan proses troubleshooting secara rapi.
 
 ---
 
-## Tools
-- Event Viewer
-- Device Manager
-- Services
-- Command Prompt
+## Environment
+- Guest OS: Windows 10 (VirtualBox)
+- RAM: 4 GB
+- CPU: 2 core
 
 ---
 
-## Aktivitas Praktik
-
-### 1. Event Viewer (Log Check)
-Langkah:
-- Run → `eventvwr.msc`
-- Windows Logs → System
-
-Tujuan:
-- Menemukan error, warning, dan failure
+## Tools yang Digunakan
+- Event Viewer (`eventvwr.msc`)
+- Device Manager (`devmgmt.msc`)
+- Services (`services.msc`)
+- Command Prompt / PowerShell
+- Task Manager
 
 ---
 
-### 2. Device Manager (Driver Check)
-Langkah:
-- Run → `devmgmt.msc`
-- Cek icon kuning / error
+## Langkah Praktik
 
-Tujuan:
-- Memastikan driver normal
-
----
-
-### 3. Services (Service Status)
-Langkah:
-- Run → `services.msc`
-- Cek:
-  - Windows Update
-  - DHCP Client
-  - Windows Defender
-
-Tujuan:
-- Monitoring service penting
+### 1. Cek Log Sistem (Event Viewer)
+- Buka: `Run -> eventvwr.msc`
+- Periksa: Windows Logs → System / Application
+- Cari: Error / Warning dengan timestamp terbaru
+- Catat Event ID dan deskripsi singkat
 
 ---
-
-### 4. System File Checker
-Perintah:
-```cmd
-sfc /scannow
