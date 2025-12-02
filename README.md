@@ -37,6 +37,7 @@ it-support-lab/
 - ✅ Troubleshooting error unattended
 - ✅ Network configuration
 - ✅ User management
+- ✅ Troubleshooting basic lab
 - [ ] Backup & restore
 - [ ] Basic security hardening
 
