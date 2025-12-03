@@ -84,19 +84,19 @@ Tujuan:
 
 ### 7. Cek Port Aktif
 Perintah:
-```cmd
+---cmd
 netstat -an
 
 Tujuan:
-- Mengetahui port terbuka.
+-Mengetahui port terbuka.
 
 ---
 
-8. Disable Guest Account
+### 8. Disable Guest Account
 Langkah:
 Local Users and Groups → Guest → Disable
 
 Tujuan:
-- Mengurangi celah keamanan.
+-Mengurangi celah keamanan.
 
 ---
