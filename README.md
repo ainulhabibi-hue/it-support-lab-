@@ -39,7 +39,7 @@ it-support-lab/
 - ✅ User management
 - ✅ Troubleshooting basic lab
 - ✅ Backup & restore
-- [ ] Basic security hardening
+- ✅ Basic security hardening
 
 ---
 
