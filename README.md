@@ -38,7 +38,7 @@ it-support-lab/
 - ✅ Network configuration
 - ✅ User management
 - ✅ Troubleshooting basic lab
-- [ ] Backup & restore
+- ✅ Backup & restore
 - [ ] Basic security hardening
 
 ---
