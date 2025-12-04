@@ -40,7 +40,8 @@ it-support-lab/
 - ✅ Troubleshooting basic lab
 - ✅ Backup & restore
 - ✅ Basic security hardening
-
+- ✅ Monitoring & log analysis lab
+  
 ---
 
 ## Skill yang Dikembangkan
